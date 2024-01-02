@@ -1,0 +1,80 @@
+body {
+  align-items: center;
+  display: flex;
+  justify-content: center;
+  padding: 0;
+  margin: 0;
+}
+.heading {
+  width: 100%;
+  background-color: yellow;
+  display: flex;
+  position: fixed;
+  top: 0;
+  justify-content: flex-end;
+}
+.imgo {
+}
+.maino {
+  display: block;
+  padding-top: 100px;
+  font-family: "arial";
+}
+div {
+  text-align: center;
+}
+.logbtn {
+  background-color: black;
+  color: yellow;
+  border-radius: 50px;
+  width: 238px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+.go {
+  display: flex;
+}
+p {
+  text-align: center;
+}
+.orr {
+  color: rgb(107, 105, 105);
+
+  font-weight: 400px;
+}
+.form-group {
+  padding-top: 10px;
+  padding-bottom: 10px;
+}
+input {
+  border-top: none;
+  border-left: none;
+  border-right: none;
+  border-color: black;
+  width: 263px;
+}
+.lin {
+  display: flex;
+  justify-content: right;
+}
+.login-btn {
+  background-color: rgb(228, 217, 217);
+  color: white;
+  border-radius: 50px;
+  width: 238px;
+  height: 48px;
+  display: flex;
+  justify-content: center;
+  border: none;
+  margin-bottom: 40px;
+}
+a {
+  text-decoration-line: none;
+}
+.hyt {
+  text-decoration: black;
+  color: black;
+  font-weight: bold;
+}
